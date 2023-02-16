@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:bloc/bloc.dart';
-import 'package:timer/ticker.dart';
+import 'package:timer/timer_app/ticker.dart';
 
 part 'timer_event.dart';
 part 'timer_state.dart';

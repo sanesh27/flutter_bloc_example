@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:timer/bloc/timer_bloc.dart';
+import 'package:timer/timer_app/bloc/timer_bloc.dart';
 
-export 'bloc/timer_bloc.dart';
-export 'view/timer_page.dart';
+export '../timer_app/bloc/timer_bloc.dart';
+export '../timer_app/view/timer_page.dart';
 
 class TimerActions extends StatelessWidget {
   const TimerActions({Key? key}) : super(key: key);

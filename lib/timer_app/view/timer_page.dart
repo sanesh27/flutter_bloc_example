@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:timer/ticker.dart';
-import 'package:timer/timer.dart';
+import 'package:timer/timer_app/ticker.dart';
+import 'package:timer/timer_app/timer.dart';
 
 class TimerPage extends StatelessWidget {
   const TimerPage({Key? key}) : super(key: key);

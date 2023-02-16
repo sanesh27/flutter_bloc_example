@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 import 'package:timer/album_app/view/album_screen.dart';
 import 'package:timer/home.dart';
-import 'package:timer/timer.dart';
+import 'package:timer/timer_app/view/timer_page.dart';
 
 final GoRouter myRoute = GoRouter(
     routes: <RouteBase>[
